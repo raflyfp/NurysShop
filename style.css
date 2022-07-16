@@ -1,0 +1,53 @@
+body{
+	background-color: #F5F0BB ;
+	width: 100%;
+	background-size: auto;
+	display: block;
+}
+
+.header{
+	border-radius: 10px;
+	position: absolute;
+	background-color: #73A9AD ;
+	top: 5%;
+	left: 15%;
+	right: 15%;
+
+}
+
+.title{
+	text-align: center;
+	margin: 5px;
+	border: solid white;
+	border-radius: 10px;
+}
+
+.title h1{
+	font-family: sans-serif;
+	color: white;
+	margin: 5px;
+}
+
+.intro{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+}
+
+.content{
+	background-color: #90C8AC;
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	right: 25%;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: center;
+}
+
+.content a{
+	font-family: sans-serif;
+	color: white;
+	text-decoration: none;
+}
