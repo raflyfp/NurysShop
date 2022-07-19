@@ -47,7 +47,7 @@ body{
 
 .gambar img{
 	margin: 20px;
-	margin-left: 30px;
+	margin-left: 25px;
 	width: 80%;
 
 	
@@ -56,7 +56,7 @@ body{
 .content{
 	background-color: #F5F0BB;
 	position: absolute;
-	top: 80%;
+	top: 70%;
 	left: 25%;
 	right: 25%;
 	border-radius: 10px;
